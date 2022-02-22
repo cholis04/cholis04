@@ -7,6 +7,8 @@
 
 - 📝 Sometimes I write microblog on [https://instagram.com/cholis04](https://instagram.com/cholis04)
 
+- 🖌️ Check out some UI designs I made at [https://dribbble.com/cholis04](https://dribbble.com/cholis04)
+
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **korunkolis04@gmail.com**
