@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurcholis</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Next JS, Typescript, React Testing Library**
 
@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **1997nurkholis@gmail**
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/cholis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cholis04" height="30" width="40" /></a>
