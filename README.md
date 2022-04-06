@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nurcholis</h1>
 <h3 align="center">A passionate frontend web developer from Indonesia</h3>
+<br/>
 
 - 🌱 I’m currently learning **Next JS, Typescript, React Testing Library**
 
