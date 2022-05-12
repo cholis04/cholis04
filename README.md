@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nurcholis</h1>
 <h3 align="center">A passionate frontend web developer from Indonesia</h3>
-<br/>
+
+<p align="center">
 <a href="https://www.codewars.com/users/cholis04" target="blank"><img align="center" src="https://www.codewars.com/users/cholis04/badges/small" alt="cholis04"/></a>
+</p>
+<br/>
 <br/>
 
 - 🌱 I’m currently learning **Next JS, Typescript, React Testing Library**
