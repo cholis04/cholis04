@@ -15,7 +15,7 @@
 
 - 🖌️ Check out some UI designs I made at [https://dribbble.com/cholis04](https://dribbble.com/cholis04)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS**
 
 - 📫 How to reach me **1997nurkholis@gmail**
 
