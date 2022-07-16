@@ -7,15 +7,13 @@
 </p>
 <br/>
 
-- 🌱 I’m currently learning **Next JS, Typescript, React Testing Library, End to end Testing, CI/CD**
+- 🌱 I’m currently learning **Next JS, Authentication, React Testing Library, End to end Testing, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/cholis04](https://www.frontendmentor.io/profile/cholis04)
 
 - 📝 Sometimes I write microblog on [https://instagram.com/cholis04](https://instagram.com/cholis04)
 
 - 🖌️ Check out some UI designs I made at [https://dribbble.com/cholis04](https://dribbble.com/cholis04)
-
-- 💬 Ask me about **Semantic HTML, Creative CSS, Modern JavaScript, React JS**
 
 - 📫 How to reach me **1997nurkholis@gmail**
 
