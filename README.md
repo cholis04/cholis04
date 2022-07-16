@@ -7,11 +7,9 @@
 </p>
 <br/>
 
-- 🌱 I’m currently learning **Next JS, Authentication, React Testing Library, End to end Testing, CI/CD**
+- 🌱 I’m currently learning **Next JS Typescript, Authentication, Unit & Integration Testing, End to end Testing, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/cholis04](https://www.frontendmentor.io/profile/cholis04)
-
-- 📝 Sometimes I write microblog on [https://instagram.com/cholis04](https://instagram.com/cholis04)
 
 - 🖌️ Check out some UI designs I made at [https://dribbble.com/cholis04](https://dribbble.com/cholis04)
 
