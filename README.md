@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurcholis</h1>
-<p align="center">Frontend Web Developer Enthusiast from Indonesia</p>
+<p align="center"><b>Frontend Web Developer Enthusiast from Indonesia</b></p>
 
 <br/>
 <p align="center">
