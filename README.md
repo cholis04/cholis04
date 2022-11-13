@@ -7,7 +7,7 @@
 </p>
 <br/>
 
-- 🌱 I’m currently learning **Next JS Typescript, Authentication, Automation Testing, CI/CD**
+- 🌱 I’m currently learning **Automation Testing, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/cholis04](https://www.frontendmentor.io/profile/cholis04)
 
