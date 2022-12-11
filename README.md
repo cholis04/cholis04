@@ -13,7 +13,7 @@
 
 - 🖌️ Check out some UI designs I made at [https://dribbble.com/cholis04](https://dribbble.com/cholis04)
 
-- 📫 How to reach me **1997nurkholis@gmail**
+- 📫 How to reach me **1997nurkholis@gmail.com**
 
 <br/>
 <h2 align="left">Connect with me:</h2>
