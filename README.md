@@ -18,10 +18,10 @@
 <br/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://codepen.io/cholis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cholis04's CodePen" height="30" width="40" /></a>
-<a href="https://instagram.com/cholis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cholis04's Instagram" height="30" width="40" /></a>
-<a href="https://dribbble.com/cholis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cholis04's Dribbble" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@cholis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cholis04's YouTube" height="30" width="40" /></a>
+<a href="https://codepen.io/cholis04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cholis04's CodePen" height="30" width="40" /></a>
+<a href="https://instagram.com/cholis04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cholis04's Instagram" height="30" width="40" /></a>
+<a href="https://dribbble.com/cholis04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cholis04's Dribbble" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cholis04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cholis04's YouTube" height="30" width="40" /></a>
 </p>
 
 <br/>
