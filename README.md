@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurcholis</h1>
-<p align="center"><b>UI Designer | Front-end Web Developer (React JS)</b></p>
+<p align="center"><b>Frontend Web Developer Enthusiast</b></p>
 
 <br/>
 <p align="center">
