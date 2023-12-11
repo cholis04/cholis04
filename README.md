@@ -7,8 +7,6 @@
 </p>
 <br/>
 
-- 🌱 I’m currently learning **Automation Testing, CI/CD**
-
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/cholis04](https://www.frontendmentor.io/profile/cholis04)
 
 - 🖌️ Check out some UI designs I made at [https://dribbble.com/cholis04](https://dribbble.com/cholis04)
